@@ -1,5 +1,6 @@
 // Location Name Variable
 variable "location" {
+    description = "Region where resources > provisioned"
     default = "UK South"
 }
 
