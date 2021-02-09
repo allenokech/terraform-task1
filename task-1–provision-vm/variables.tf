@@ -6,7 +6,7 @@ variable "location" {
 
 // Project Name
 variable "project_name" {
-    default = "task1"
+    default = "task1b"
 }
 
 // VM Size
